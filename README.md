@@ -20,48 +20,28 @@ Frontend Developer | React.js | MERN Stack | JavaScript | UI/UX Enthusiast
 - 🎯 Strong understanding of UI/UX principles and responsive web design
 - 🚀 Interested in scalable frontend architecture and performance optimization
 - 🧠 Active problem solver with focus on Data Structures & Algorithms (DSA)
-
 ---
-
 ## 🛠️ Tech Stack
 
 ### Frontend
-- React.js
-- Redux
-- Vue.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
+React.js | Redux | Vue.js | JavaScript (ES6+) | TypeScript | HTML5 | CSS3
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+Node.js | Express.js | REST APIs | Java | Python
 
 ### Database
-- MongoDB
+MongoDB
 
-### Styling & UI
-- Tailwind CSS
-- Bootstrap
-- Responsive Web Design
+### UI & Styling
+Tailwind CSS | Bootstrap | Responsive Web Design
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-- Webpack
+### Tools & DevOps (Basic Knowledge)
+Git | GitHub | VS Code | Postman | Webpack | Docker | Linux
 
-### Languages
-- Java
-- Python
-- JavaScript
-- TypeScript
+### Concepts
+Data Structures & Algorithms | OOP | API Integration | State Management | Responsive Design | Agile/Scrum
 
 ---
-
 ## 💼 Experience
 
 ### 🏢 CODEALPHA
