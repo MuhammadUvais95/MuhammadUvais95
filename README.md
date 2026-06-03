@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Uvais Akram</h1>
 
 <h3 align="center">
-Frontend Developer | React.js | MERN Stack | JavaScript | UI/UX Enthusiast
+MERN Stack Developer | Frontend Developer | Backend Developer | React.js | JavaScript | UI/UX Enthusiast
 </h3>
 
 <p align="center">
@@ -45,7 +45,7 @@ Data Structures & Algorithms | OOP | API Integration | State Management | Respon
 ## 💼 Experience
 
 ### 🏢 CODEALPHA
-**Front-End Developer Intern (Remote)**  
+**Full Stack Developer(MERN) Intern (Remote)**  
 📍 Jul 2025 – Aug 2025
 
 - Developed responsive and user-centric web applications using React.js and MERN stack
