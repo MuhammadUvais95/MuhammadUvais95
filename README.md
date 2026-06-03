@@ -69,6 +69,10 @@ Data Structures & Algorithms | OOP | API Integration | State Management | Respon
 
 ### 🏡 Wanderlust – Rental Property Booking Platform
 
+🌐 Live Demo: https://delta-project-jd25.onrender.com
+
+📂 GitHub Repository: https://github.com/MuhammadUvais95/delta-project
+
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 - Built a production-style Airbnb clone using MERN stack
