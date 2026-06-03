@@ -116,8 +116,8 @@ Data Structures & Algorithms | OOP | API Integration | State Management | Respon
 ## 📫 Connect With Me
 
 - 📧 Email: uvaisakram95@gmail.com
-- 💻 GitHub: https://github.com/Muhammad-Uvais
-- 💼 LinkedIn: https://linkedin.com/in/Muhammad-Uvais
+- 💻 GitHub: https://github.com/MuhammadUvais95
+- 💼 LinkedIn: https://linkedin.com/in/muhammad-uvaish-akram-789266299
 
 ---
 
