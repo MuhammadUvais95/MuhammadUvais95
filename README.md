@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <img src="https://www.aaditritechnology.com/images/redesign.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Muhammad Uvais Akram</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Uvaish Akram</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack Developer | Frontend Developer | Backend Developer | React.js | JavaScript | UI/UX Enthusiast
+Full Stack Developer | MERN Stack Developer | Frontend Developer | Backend Developer | React.js | Node.js Developer | JavaScript | UI/UX Enthusiast
 </h3>
 
 <p align="center">
