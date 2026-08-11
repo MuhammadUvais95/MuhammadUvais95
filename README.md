@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Uvais Akram</h1>
 
 <h3 align="center">
-MERN Stack Developer | Frontend Developer | Backend Developer | React.js | JavaScript | UI/UX Enthusiast
+Full Stack Developer | MERN Stack Developer | Frontend Developer | Backend Developer | React.js | JavaScript | UI/UX Enthusiast
 </h3>
 
 <p align="center">
